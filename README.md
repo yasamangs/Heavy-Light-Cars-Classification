@@ -3,12 +3,10 @@ This project implements a convolutional neural network (CNN) for classifying ima
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Functionality](#functionality)
-- [License](#license)
 
 ## Installation
 
