@@ -27,6 +27,7 @@ pip install tensorflow numpy pillow
 
 The dataset used for training the model consists of images of cars and trucks. Make sure to place the images in the following directory structure:
 
+```plaintext
 My Drive/CV992/
     ├── car/
     │   └── <car_image1.jpg>
@@ -36,6 +37,7 @@ My Drive/CV992/
         └── <truck_image1.jpg>
         └── <truck_image2.jpg>
         └── ...
+```
 
         
 ## Model Training
